@@ -26,7 +26,7 @@ Built using **HTML, CSS, and JavaScript**, with an attractive design and user-fr
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Travel-And-Tourism-Frontend.git
+git clone https://github.com/sheikahmadalisha/Travel-And-Tourism-Frontend.git
 ```
 2. Navigate to the project folder:
 ```bash
